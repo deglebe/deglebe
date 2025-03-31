@@ -1,16 +1,19 @@
-## Hi there 👋
+## hello, i'm thomas (deglebe)
 
-<!--
-**deglebe/deglebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+computer science student, hobby developer, runner
 
-Here are some ideas to get you started:
+#### me:
+- i'm currently working on a tui calendar and a run tracker
+- i'm currently learning zig and gin
+- how to reach me: git at tdbio dot me or deglebe on libera
+- fun fact: i am currently reading *a new model of the universe* by ouspensky
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>stats</summary>
+<br>
+  
+![thomas's stats](https://github-readme-stats.vercel.app/api?username=deglebe&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
+![thomas's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deglebe&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
+</details>
