@@ -2,11 +2,13 @@
 
 computer science student, hobby developer, runner
 
+some projects have been migrated from sourcehut and may not reflect a full version history
+
 #### me:
-- i'm currently working on a tui calendar and a run tracker
-- i'm currently learning zig and gin
-- how to reach me: git at tdbio dot me or deglebe on libera
-- fun fact: i am currently reading *a new model of the universe* by ouspensky
+- i'm currently working on browse
+- i'm currently learning typescript and gin
+- how to reach me: git at tdbio dot me or deglebe on libera (no bouncer, may not be online)
+- fun fact: i am currently reading (multiple books, see my ![nowpage](https://deglebe.com/non-work/now/index.html))
 
 <details open>
 <summary>stats</summary>
