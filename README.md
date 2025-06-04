@@ -5,10 +5,9 @@ computer science student, hobby developer, runner
 some projects have been migrated from sourcehut and may not reflect a full version history
 
 #### me:
-- i'm currently working on browse
-- i'm currently learning typescript and gin
+- i'm currently doing research in graph theory and identity verification at [tributary](https://atributary.com)
+- i'm currently learning tinygrad, neo4j
 - how to reach me: git at tdbio dot me or deglebe on libera (no bouncer, may not be online)
-- fun fact: i am currently reading (multiple books, see my ![nowpage](https://deglebe.com/non-work/now/index.html))
 
 <details open>
 <summary>stats</summary>
