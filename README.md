@@ -2,9 +2,6 @@
 
 computer science student, hobby developer, runner
 
-some projects have been migrated from sourcehut and may not reflect a full version history
-
-
 #### me:
 - currently doing research in graph theory and identity verification at [tributary](https://atributary.com) (inactive)
 - currently learning about compiler design
