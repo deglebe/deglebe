@@ -2,6 +2,8 @@
 
 computer science student, hobby developer, runner
 
+primary individual development/with friends occurs over on [ronath](https://git.ronath.dev/deglebe)
+
 #### me:
 - currently doing research in graph theory and identity verification at [tributary](https://atributary.com) (inactive)
 - currently learning about compiler design
