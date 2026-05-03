@@ -12,4 +12,10 @@ computer science student, hobby developer, runner
 - [sudoku](https://github.com/deglebe/sudoku) - native sudoku with builtin puzzle generation and lua moddability
 - [govi](https://github.com/deglebe/govi) - just enough of a vi to edit its own source
 
+<details>
+  <summary>stats</summary>
+  <p align="center">
+      <img src="contrib-graph.svg"/>
+  </p>
+</details>
 
