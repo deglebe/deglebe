@@ -5,6 +5,7 @@ computer science student, hobby developer, runner
 some work goes on over at [codeberg](https://codeberg.org/deglebe)
 
 #### me:
+- intern on ibm's gpfs core development team. this has left me very busy
 - currently learning about compiler design
 - how to reach me: `git at tdbio dot me`
 - language proficiency: english (native), scots (native), shaetlan (conversant), german (working proficiency)
