@@ -2,7 +2,9 @@
 
 computer science student, hobby developer, runner
 
-some work goes on over at [codeberg](https://codeberg.org/deglebe)
+ALL NEW (NONSCHOOL) WORK NOW OCCURS AT SOURCEHUT:
+
+[sr.ht/~deglebe](https://sr.ht/~deglebe/)
 
 #### me:
 - intern on ibm's gpfs core development team. this has left me very busy
