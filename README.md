@@ -2,7 +2,7 @@
 
 computer science student, hobby developer, runner
 
-ALL NEW (NONSCHOOL) WORK NOW OCCURS AT SOURCEHUT:
+i use sourcehut extensively as well...
 
 [sr.ht/~deglebe](https://sr.ht/~deglebe/)
 
